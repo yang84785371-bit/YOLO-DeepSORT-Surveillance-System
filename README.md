@@ -1,4 +1,4 @@
-[指标汇总对比.csv](https://github.com/user-attachments/files/24450105/default.csv)[metrics.txt](https://github.com/user-attachments/files/24450091/metrics.txt)# Intelligent Surveillance and Behavior Analysis System Based on YOLO and DeepSORT
+# Intelligent Surveillance and Behavior Analysis System Based on YOLO and DeepSORT
 
 This project implements a real-time intelligent surveillance system for pedestrian detection, multi-object tracking, and behavior analysis based on YOLO and DeepSORT.
 
@@ -28,11 +28,6 @@ On top of detection and tracking, region-based monitoring and temporal logic are
 This project is based on YOLO and DeepSORT.
 
 ## output
-experiment	mAP@0.5	mAP@0.5:0.95	Precision	Recall
-ped_y11s_val_full	0.8503	0.5589	0.8357	0.7742
-ped_y11s_val_full_night	0.8446	0.5316	0.8476	0.7441
-ped_y11s_val_pretrain	0.584	0.3006	0.6927	0.5586
-ped_y11s_val_pretrain_night	0.5963	0.283	0.6937	0.5699
 <img width="518" height="91" alt="image" src="https://github.com/user-attachments/assets/926cff2a-619a-4553-8dce-01541196b309" />
 
 
