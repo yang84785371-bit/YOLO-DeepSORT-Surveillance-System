@@ -18,7 +18,7 @@ On top of detection and tracking, region-based monitoring and temporal logic are
 - Practical deployment-oriented design
 
 ## Demo
-![demo](assets/demo_yolo_deepsort.gif)
+![1月6日 (2)](https://github.com/user-attachments/assets/c4ad4a4e-8745-4c27-adc7-025c8c49ea8e)
 
 ## Notes
 - Dataset and trained weights are not included.
@@ -34,4 +34,3 @@ This project is based on YOLO and DeepSORT.
 ## result
 ![1月6日 (1)](https://github.com/user-attachments/assets/79f1c8ba-18f7-4a0a-b5ac-69ee5349aef2)
 ![1月6日 (1)(1)](https://github.com/user-attachments/assets/da9c13a5-b643-4b25-82de-87a83a1a7011)
-![1月6日 (2)](https://github.com/user-attachments/assets/c4ad4a4e-8745-4c27-adc7-025c8c49ea8e)
